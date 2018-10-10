@@ -1,0 +1,106 @@
+/*
+  HCeditor v.1.0.0
+  (c) 2018 Faiq Alizade
+  License: MIT
+*/
+#editor_wrapper{
+    width: 100%;
+}
+.HCeditorcopy{
+    display: none;
+}
+#HCeditor_error{
+    color: #e34961;
+    font-size: 11px;
+    font-family: 'Montserrat';
+    border: none;
+}
+.editor_buttons_block{
+    width: 100%;
+    border: 1px solid #eee;
+    border-radius: 5px 5px 0 0;
+}
+#editor_buttons_wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    border-radius: 4px 0 0 0 ;
+    background-color: #2a2f4205;
+}
+.image_local{
+    cursor: pointer;
+    border-bottom: 1px solid #eee;
+}
+.editor_button{
+    border-left: 1px solid #eee;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    transition: background-color .3s;
+    padding: 13px;
+}
+.editor_button:last-child{
+    border-right: 1px solid #eee;
+}
+.editor_button:first-child{
+    border: none;
+    border-radius: 4px 0 0 0 ;
+}
+.editor_button_img{
+    width: 15px;
+    height: 15xp;
+}
+#editor_form{
+    width: 100%;
+    padding: 0;
+}
+.editor_textarea{
+    width: calc(100% - 10px);
+    resize: vertical;
+    height: 180px;
+    border: 1px solid #eee;
+    border-top: none;
+    border-radius: 0 0 2px 2px;
+    outline: none;
+    padding: 5px;
+    font-size: 14px;
+}
+.image_button_list,.ol_button_list{
+    position: absolute;
+    left: -2px;
+    background-color: #fff;
+    top: 43px;
+    display: none;
+    width: 150px;
+    padding: 0;
+    border: 1px solid #eee;
+    box-shadow: 0 0 5px rgba(0, 0, 0, .2);
+    border-radius: 3px;
+}
+.image_button_list p,.ol_button_list p{
+    padding: 8px 0;
+    font-size: 14px;
+    font-family: tahoma;
+    margin: 0;
+    text-align: center;
+}
+.ol_button_list p{
+    border-bottom: 1px solid #eee;
+}
+.image_button_list p:hover, .ol_button_list p:hover{
+    color: #077fcc;
+}
+.ol_button_list p:last-child{
+    border: none;
+}
+.list_after,.image_after{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 13px;
+}
+.image,.list{
+    position: relative;
+    padding: 0;
+}
