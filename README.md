@@ -124,8 +124,8 @@
       });
       </script>
 
-**Skype - c.ronaldo82962**
-**E-mail - faiq.alizade.00@mail.ru**
+**Skype - c.ronaldo82962** <br/>
+**E-mail - faiq.alizade.00@mail.ru** <br/>
 **Copyright - 2018. Faiq Alizade**
    
 
