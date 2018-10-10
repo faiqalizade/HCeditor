@@ -1,6 +1,8 @@
 # HCeditor v.1.0.0
 Редактор текста HTML(VueJS)
 ![HCeditor](https://i.imgur.com/MankWmU.png)
+
+## DEMO http://faiqaliza3.tmweb.ru/HCeditorDemo/
 ## Установка
 Клонируйте репозиторию в корневую папку(/HCeditor)
 
