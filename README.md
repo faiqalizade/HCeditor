@@ -131,5 +131,5 @@
 **Copyright - 2018. Faiq Alizade**
    
 
-> HCeditor - v.1.0.0
+> HCeditor - v.1.0.0 </br>
 > ЗАГРУЗКА ИЗОБРАЖЕНИЕ НА СЕРВЕР НАПИСАН НА PHP
