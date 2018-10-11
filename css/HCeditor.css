@@ -4,7 +4,7 @@
   License: MIT
 */
 #editor_wrapper{
-    color: #0D0B0F;
+    color: #0d0b0f;
     width: 100%;
 }
 .HCeditorcopy{
@@ -26,11 +26,11 @@
     flex-direction: row;
     justify-content: flex-start;
     border-radius: 4px 0 0 0 ;
-    background-color: #e1e0e1;
+    background-color: #fbfafb;
 }
 .image_local{
     cursor: pointer;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #eeeeee;
 }
 .editor_button{
     border-left: 1px solid #eee;
