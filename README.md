@@ -2,7 +2,6 @@
 Редактор текста HTML(VueJS)
 ![HCeditor](https://i.imgur.com/MankWmU.png)
 
-## DEMO http://hceditordemo.faiqaliza3.tmweb.ru/HCeditorDemo/
 ## Установка
 Клонируйте репозиторию в корневую папку(/HCeditor)
 
